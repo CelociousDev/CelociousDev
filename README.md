@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CelociousDev
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning Python
+- 📫 If you want to reach me well, you can't 🤣.
